@@ -6,6 +6,7 @@
     "continuousDeployment": true
   },
   "DeployToPROD": {
+    "EnvironmentName": "jdk",
     "continuousDeployment": false
   }
 }
