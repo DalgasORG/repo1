@@ -8,7 +8,7 @@
   "DeployToPROD": {
     "EnvironmentName": "jdk",
     "continuousDeployment": false
-  }
-    "useCompilerFolder": false,
+  },
+  "useCompilerFolder": false,
   "doNotPublishApps": false
 }
