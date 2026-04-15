@@ -9,4 +9,6 @@
     "EnvironmentName": "jdk",
     "continuousDeployment": false
   }
+    "useCompilerFolder": false,
+  "doNotPublishApps": false
 }
